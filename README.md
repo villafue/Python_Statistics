@@ -1,2 +1,2 @@
 # Python_Statistics
-Statistics Notes in Python 
+Boston Mini Project: Linear regression: scikitlearn & statsmodels, fundamentals, math, OLS method | EDA for linear regression: scatterplots, seaborn with multiple variables/models, log transofmration, sm.summary, r-squared, f-stat, t-stat, coefficients, AIC, data storytelling/domain knowledge | fitted values vs residuals plot | quantile vs quantile plot | leverage plot | removing outliers and comparing models: graphs, summaries
