@@ -1,0 +1,3 @@
+The Design and Application of A/B Testing
+
+In this chapter you will dive fully into A/B testing. You will learn the mathematics and knowledge needed to design and successfully plan an A/B test from determining an experimental unit to finding how large a sample size is needed. Accompanying this will be an introduction to the functions and code needed to calculate the various quantities associated with a statistical test of this type.
